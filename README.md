@@ -1,4 +1,4 @@
-# Mobile Container — Device Test Suite (Custom Edition)
+# Mobile Container — Device Test Suite
 
 ## 📱 Project Overview
 
